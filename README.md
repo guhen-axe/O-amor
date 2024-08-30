@@ -3,4 +3,6 @@
 
 ![oi](https://github.com/guhen-axe/O-amor/blob/main/garota-parada.gif)
 
-![coisa](https://github.com/guhen-axe/O-amor/blob/main/hp.gif)
+![coisa][def]
+
+[def]: https://github.com/guhen-axe/O-amor/blob/main/hp.gif

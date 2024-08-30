@@ -7,3 +7,7 @@
 
 [def]: https://github.com/guhen-axe/O-amor/blob/main/hp.gif
 [def2]: https://raw.githubusercontent.com/ThDeye/Gifs/main/garota-andando.gif
+
+![andando_gif_animado][gifA]
+
+[gifA]: https://raw.githubusercontent.com/ThDeye/Gifs/main/garota-andando.gif

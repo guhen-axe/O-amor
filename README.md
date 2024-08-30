@@ -1,4 +1,4 @@
-![garota-animada](https://github.com/ThDeye/Gifs/blob/main/garota-andando.gif)
+![garota-animada](https://raw.githubusercontent.com/ThDeye/Gifs/main/garota-andando.gif)
 
 
 ![oi](https://github.com/guhen-axe/O-amor/blob/main/garota-parada.gif)

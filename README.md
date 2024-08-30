@@ -1,4 +1,4 @@
-![garota animada](https://github.com/guhen-axe/O-amor/blob/main/garota-andando.gif.gif)
+![garota animada](https://github.com/guhen-axe/O-amor/blob/main/garota-andando.gif)
 
 
 ![oi]()

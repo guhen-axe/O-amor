@@ -16,7 +16,7 @@ ___________
 
 ![imagem-da-garota](https://github.com/ThDeye/Gifs/blob/main/icone1.png?raw=true)
 
-![imagem](https://github.com/ThDeye/Gifs/blob/main/icone1.png)
+![imagem](https://github.com/guhen-axe/O-amor/blob/main/garota-parada.gif?raw=true)
 
 ![imagem](https://raw.githubusercontent.com/ThDeye/Gifs/main/icone1.png)
 

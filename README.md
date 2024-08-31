@@ -21,7 +21,7 @@ ___________
 <img src="https://github.com/ThDeye/Gifs/blob/main/hp.gif" width="100px">
 
 
-
+-----
 
 `class Test` <br>
 `{`<br>
@@ -33,10 +33,13 @@ ___________
 
 >esse foi um codigo aleatorio mesmo
 
+----
+
 |   curso   |   link  |
 |-----------|---------| 
 |DIO        |[link-do-curso](https://web.dio.me/home)|
 
+-------
 
 [x]titulo   <br>
 [x]frase   <br>

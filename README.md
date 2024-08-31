@@ -23,13 +23,13 @@ ___________
 
 
 
-`class Test
-{
-    public static void main(String []args)
-    {
-        System.out.println("My First Java Program.");
-    }
-};`
+`class Test` <br>
+`{`<br>
+`    public static void main(String []args)`<br>
+`    {`<br>
+`        System.out.println("My First Java Program.");`<br>
+`    }`<br>
+`};`<br>
 
 >esse foi um codigo aleatorio mesmo
 

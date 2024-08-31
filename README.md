@@ -4,9 +4,11 @@
 
 #### começo   <br>
 
-*nesse repositorio, nesse README, irei tentar usar todas as.. tags de markdown* __na qual foi ensinado durante as aulas__ ___eu nao sei muitas mais coisas colocar, ja que estou bem no começo.___
+*nesse repositorio, nesse README, irei tentar usar todas as.. tags de markdown* __na qual foi ensinado durante as aulas do curso__ ___isso é para concluir um desafio/atividade passada pelo curso para criar um repositorio.___
 
+Eu nao sei ao certo oque eu deveria fazer e meu projeto esta mais para demonstrar que eu assisti todas as aulas e que usei tudo que foi mostrado
 ___________
+###### lista
 
 - github   
       - git   
@@ -22,6 +24,7 @@ ___________
 
 
 -----
+###### codigo
 
 `class Test` <br>
 `{`<br>
@@ -34,12 +37,14 @@ ___________
 >esse foi um codigo aleatorio mesmo
 
 ----
+###### tabela
 
 |   curso   |   link  |
 |-----------|---------| 
 |DIO        |[link-do-curso](https://web.dio.me/home)|
 
 -------
+###### tarefas
 
 [x]titulo   <br>
 [x]frase   <br>

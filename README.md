@@ -13,7 +13,16 @@ ___________
 1. 😗
 2. 😒
 3. 😮  <br>
-https://github.com/ThDeye/Gifs/blob/main/garota-andando.gif?raw=true
+
+![imagem-da-garota](https://github.com/ThDeye/Gifs/blob/main/icone1.png?raw=true)
+
+![imagem](https://github.com/ThDeye/Gifs/blob/main/icone1.png)
+
+![imagem](https://raw.githubusercontent.com/ThDeye/Gifs/main/icone1.png)
+
+
+
+![imagem](https://github.com/ThDeye/Gifs/blob/main/garota-andando.gif?raw=true)
 
 [x]titulo   <br>
 [x]frase   <br>

@@ -16,7 +16,7 @@ ___________
 
 ![imagem-da-garota](https://github.com/ThDeye/Gifs/blob/main/icone1.png?raw=true)
 
-![imagem](https://github.com/guhen-axe/O-amor/blob/main/garota-parada.gif?raw=true)
+![imagem](https://github.com/guhen-axe/O-amor/blob/main/garota-parada.gif)
 
 ![imagem](https://raw.githubusercontent.com/ThDeye/Gifs/main/icone1.png)
 
@@ -26,6 +26,6 @@ ___________
 
 [x]titulo   <br>
 [x]frase   <br>
-[]imagem   <br>
+[x]imagem   <br>
 []codigo aleatorio   <br>
 []mensagem

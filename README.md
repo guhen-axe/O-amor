@@ -34,8 +34,8 @@ ___________
 >esse foi um codigo aleatorio mesmo
 
 |   curso   |   link  |
----------
-|     DIO   | [link-do-curso](https://web.dio.me/home)|
+|-----------|---------| 
+|DIO        |[link-do-curso](https://web.dio.me/home)|
 
 
 [x]titulo   <br>

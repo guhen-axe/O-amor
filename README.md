@@ -18,11 +18,9 @@ ___________
 2. 😒
 3. 😮
 
-![gif](https://github.com/ThDeye/Gifs/blob/main/hp.gif)
 <img src="https://github.com/ThDeye/Gifs/blob/main/hp.gif" width="100px">
 
 
-<img src="https://github.com/ThDeye/Gifs/blob/main/hp.gif" alt="garota" style="width:48px;height:48px;">
 
 
 `class Test

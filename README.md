@@ -4,6 +4,9 @@
 
 *nesse repositorio, nesse README, irei tentar usar todas as.. tags de markdown* __na qual foi ensinado durante as aulas__ ___eu nao sei muitas mais coisas colocar, ja que estou bem no começo.___
 
+----------
+___________
+
 -github   <br>
       -git   <br>
      -gist   <br>
